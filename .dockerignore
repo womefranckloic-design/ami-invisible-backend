@@ -1,0 +1,8 @@
+target/
+*.class
+.idea/
+*.iml
+.git/
+.gitignore
+README.md
+env.sh
